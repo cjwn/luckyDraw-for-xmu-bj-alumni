@@ -1,0 +1,87 @@
+[
+  {
+    "prizeLevel": "三等奖",
+    "round": 1,
+    "count": 34
+  },
+  {
+    "prizeLevel": "三等奖",
+    "round": 2,
+    "count": 20
+  },
+  {
+    "prizeLevel": "三等奖",
+    "round": 3,
+    "count": 10
+  },
+  {
+    "prizeLevel": "三等奖",
+    "round": 4,
+    "count": 10
+  },
+  {
+    "prizeLevel": "三等奖",
+    "round": 5,
+    "count": 10
+  },
+  {
+    "prizeLevel": "三等奖",
+    "round": 6,
+    "count": 5
+  },
+  {
+    "prizeLevel": "二等奖",
+    "round": 1.1,
+    "count": 5
+  },
+  {
+    "prizeLevel": "二等奖",
+    "round": 1.2,
+    "count": 5
+  },
+  {
+    "prizeLevel": "二等奖",
+    "round": 2,
+    "count": 20
+  },
+  {
+    "prizeLevel": "二等奖",
+    "round": 3,
+    "count": 2
+  },
+  {
+    "prizeLevel": "二等奖",
+    "round": 4,
+    "count": 12
+  },
+  {
+    "prizeLevel": "二等奖",
+    "round": 5,
+    "count": 10
+  },
+  {
+    "prizeLevel": "二等奖",
+    "round": 6.1,
+    "count": 6
+  },
+  {
+    "prizeLevel": "二等奖",
+    "round": 6.2,
+    "count": 30
+  },
+  {
+    "prizeLevel": "二等奖",
+    "round": 7,
+    "count": 5
+  },
+  {
+    "prizeLevel": "二等奖",
+    "round": 8,
+    "count": 10
+  },
+  {
+    "prizeLevel": "一等奖",
+    "round": 1,
+    "count": 1
+  }
+]

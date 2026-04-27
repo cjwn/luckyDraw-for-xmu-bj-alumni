@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>抽奖</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="stage">
+      <div class="overlay"></div>
+      <section class="panel">
+        <header class="panel-header">
+          <p class="eyebrow">晚宴惊喜</p>
+          <h1>抽奖</h1>
+          <div class="round-meta">
+            <span id="prizeLabel">加载中...</span>
+            <span id="roundLabel"></span>
+            <span id="countLabel"></span>
+          </div>
+        </header>
+
+        <section class="rolling-area">
+          <p class="section-title">当前号码</p>
+          <div id="rollingNumber" class="rolling-number">26001</div>
+          <p id="statusText" class="status-text">按空格开始本轮抽奖</p>
+        </section>
+
+        <section class="result-area">
+          <div class="result-header">
+            <p class="section-title">本轮中奖号码</p>
+            <span id="progressText" class="progress-text"></span>
+          </div>
+          <div id="winnerList" class="winner-list"></div>
+        </section>
+
+        <footer class="footer-hint">
+          <span>空格：开始 / 停止</span>
+          <span>回车：进入下一轮</span>
+          <span>R：重置全部</span>
+        </footer>
+      </section>
+    </main>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+  </html>
